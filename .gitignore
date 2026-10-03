@@ -48,6 +48,6 @@ Engine/vcpkg_installed/
 **/.env
 *.env
 
-# # other
-# **/readme.md
-# **/README.md
+# other
+**/readme.md
+**/README.md
